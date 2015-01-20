@@ -1,0 +1,5 @@
+/Users/kolajide007/Desktop/IVoteNaija/IVoteNaija/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/kolajide007/Desktop/IVoteNaija/IVoteNaija/obj/Debug/IVoteNaija.page3.xaml
+/Users/kolajide007/Desktop/IVoteNaija/IVoteNaija/obj/Debug/page3.xaml.g.cs
+/Users/kolajide007/Desktop/IVoteNaija/IVoteNaija/bin/Debug/Xamarin.Forms.Core.dll
+/Users/kolajide007/Desktop/IVoteNaija/IVoteNaija/bin/Debug/Xamarin.Forms.Xaml.dll
